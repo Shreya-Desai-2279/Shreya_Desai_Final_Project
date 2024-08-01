@@ -3,6 +3,8 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 require('dotenv').config();
 
+const productRoutes = require('./routes/productRoutes');
+
 const app = express();
 
 // Middleware
@@ -17,7 +19,6 @@ mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTop
   .catch((err) => console.log(err));
 
 // Routes
-const productRoutes = require('./routes/productRoutes');
 app.use('/api/products', productRoutes);
 
 app.listen(PORT, () => {
