@@ -44,3 +44,34 @@ State management planned to handle user sessions and cart data.
 Notes
 The project is set up using Git and GitHub for version control.
 Further development will include implementing user interfaces for product listings, shopping cart, and checkout.
+
+WEEK-2
+
+1. In this week I have added the functionality of displaying products on the homepage.
+2. Also added the function of showing products on the basis of categories.
+3. Showing product descripiton upon selecting the product.
+4. Implement add to cart, remove from cart, and adjust quantity functionalities.
+
+STEPS TO SETUP AND RUN
+1. Unzip the project and then change directory from the terminal to backend.
+2. Then run the command "npm init".
+3. Afterwards, change directory to frontend.
+4. Then run the command "npm init".
+5. Then run command "npm start" to start the frontend.
+6. change agein change directory to backend and run command "npm run server".
+
+WEEK-3
+
+1. In this week I have added the functionality of a simple checkout page.
+2. Also added the function of creating order summary.
+3. Showing admin login granting permission to add, read, update and delete the products.
+4. Implement admin dashboard as well to showcase all the product to be displayed on the homepage.
+
+STEPS TO SETUP AND RUN
+1. Unzip the project and then change directory from the terminal to backend.
+2. Then run the command "npm init".
+3. Afterwards, change directory to frontend.
+4. Then run the command "npm init".
+5. Then run command "npm start" to start the frontend.
+6. change agein change directory to backend and run command "npm run server".
+   
