@@ -58,7 +58,7 @@ STEPS TO SETUP AND RUN
 3. Afterwards, change directory to frontend.
 4. Then run the command "npm init".
 5. Then run command "npm start" to start the frontend.
-6. change agein change directory to backend and run command "npm run server".
+6. Again change directory to backend and run command "npm run server".
 
 WEEK-3
 
@@ -73,5 +73,5 @@ STEPS TO SETUP AND RUN
 3. Afterwards, change directory to frontend.
 4. Then run the command "npm init".
 5. Then run command "npm start" to start the frontend.
-6. change agein change directory to backend and run command "npm run server".
+6. Again change directory to backend and run command "npm run server".
    
